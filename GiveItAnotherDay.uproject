@@ -17,10 +17,14 @@
 		},
 		{
 			"Name": "AdvancedSteamSessions",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "AdvancedSessions",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemGoogle",
 			"Enabled": true
 		}
 	]
